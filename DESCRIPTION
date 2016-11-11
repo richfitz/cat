@@ -1,0 +1,11 @@
+Package: cat
+Type: Package
+Title: Download Cats
+Version: 0.1
+Date: 2016-11-11
+Author: Rich FitzJohn
+Maintainer: Rich FitzJohn <rich.fitzjohn@gmail.com>
+Description: Download cats from the internet.
+License: GPL-2
+RoxygenNote: 5.0.1
+Suggests: testthat
